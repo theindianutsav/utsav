@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+Implementation-Title: utsav Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: padma
+Implementation-Vendor-Id: com.utsav
 Build-Jdk: 1.8.0_71
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
